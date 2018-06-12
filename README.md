@@ -10,8 +10,9 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
 ##### Types of Neural Networks
  - Feed Forward - data moves forward in calculation
  - Radial Basis Function - measures distance from center point
- - Recurrent Neural Networks - Hidden layer can send backwards in layers
+ - Recurrent Neural Networks - Hidden layer can send input backwards in layers
    - often used for sequential data
+     - one output can work for next input
  - Convolutional Neural Networks - input data taken in batches, like a filter - picture data broken down, etc., then identified 
  
 ##### Input Neurons
