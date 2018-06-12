@@ -13,8 +13,10 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
 ##### Input Neurons
  - reads the raw input, sends information on it to hidden layers
 
-##### Hidden Layers
+##### Hidden Layer Neurons
  - Have weights and biases, interact between each other
+ - So a first hidden layer will read all the input layers, with each neuron in the hidden layer having varying weights (-1 to 1) for each input layer
+   - So, if have 3 inputs, second layer might have a neuron that weights them .1, .2, .3, and another neuron that weights them 1,0,-1, and so on, so the hidden layers will have varying combinations when weighting the input
   
 ##### Activation Functions
  - Threshold Function - either 0 or 1 depending on threshold 
