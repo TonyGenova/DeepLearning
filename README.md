@@ -5,6 +5,7 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
  - that video also has python steps for an image classifier
  
  Good basic explanation: https://www.youtube.com/watch?v=ILsA4nyG7I0
+ Good RNN explanation: https://www.youtube.com/watch?v=WCUNPb-5EYI
 
 ##### Types of Neural Networks
  - Feed Forward - data moves forward in calculation
@@ -15,6 +16,7 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
  
 ##### Input Neurons
  - reads the raw input, sends information on it to hidden layers
+   - usually a vector of input
 
 ##### Hidden Layer Neurons
  - Have weights and biases, interact between each other
