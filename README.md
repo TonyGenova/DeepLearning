@@ -10,7 +10,8 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
  - Recurrent Neural Networks - Hidden layer retains data for future applications
  - Convolutional Neural Networks - input data taken in batches, like a filter - picture data broken down, etc 
  
-##### Input
+##### Input Neurons
+ - reads the raw input, sends information on it to hidden layers
 
 ##### Hidden Layers
  - Have weights and biases, interact between each other
