@@ -6,7 +6,8 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
  
  Good basic explanation: https://www.youtube.com/watch?v=ILsA4nyG7I0  
 ### Go back and finish: Good RNN explanation: https://www.youtube.com/watch?v=WCUNPb-5EYI
-CNN writeup: http://cs231n.github.io/convolutional-networks/
+CNN writeup: http://cs231n.github.io/convolutional-networks/   
+Looks like a great set of notes from the Stanford class: https://github.com/cs231n/cs231n.github.io  
 
 ##### Types of Neural Networks
  - Feed Forward - data moves forward in calculation
