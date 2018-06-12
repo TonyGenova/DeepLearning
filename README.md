@@ -12,6 +12,9 @@ Looks like a great set of notes from the Stanford class: https://github.com/cs23
 Interesting notes on data pre-processing:  
 http://cs231n.github.io/neural-networks-2/  
 
+Interesting browser demos:
+https://cs.stanford.edu/people/karpathy/convnetjs/
+
 ##### Types of Neural Networks
  - Feed Forward - data moves forward in calculation
  - Radial Basis Function - measures distance from center point
