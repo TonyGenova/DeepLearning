@@ -18,7 +18,8 @@ http://cs231n.github.io/neural-networks-2/
  - Recurrent Neural Networks - Hidden layer can send input backwards in layers
    - often used for sequential data
      - one output can work for next input
- - Convolutional Neural Networks - input data taken in batches, like a filter - picture data broken down, etc., then identified 
+ - Convolutional Neural Networks - input data taken in batches, like a filter - picture data broken down, etc., then identified  
+   - Most commonly applied to images
  
 ##### Input Neurons
  - reads the raw input, sends information on it to hidden layers
