@@ -4,8 +4,8 @@ Notes on Deep Learning/Neural Networks
 Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
  - that video also has python steps for an image classifier
  
- Good basic explanation: https://www.youtube.com/watch?v=ILsA4nyG7I0
- Good RNN explanation: https://www.youtube.com/watch?v=WCUNPb-5EYI
+ Good basic explanation: https://www.youtube.com/watch?v=ILsA4nyG7I0  
+### Go back and finish: Good RNN explanation: https://www.youtube.com/watch?v=WCUNPb-5EYI
 
 ##### Types of Neural Networks
  - Feed Forward - data moves forward in calculation
