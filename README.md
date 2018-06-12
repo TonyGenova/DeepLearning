@@ -9,6 +9,9 @@ Some from: https://www.youtube.com/watch?v=ysVOhBGykxs&t=1792s
 CNN writeup: http://cs231n.github.io/convolutional-networks/   
 Looks like a great set of notes from the Stanford class: https://github.com/cs231n/cs231n.github.io  
 
+Interesting notes on data pre-processing:  
+http://cs231n.github.io/neural-networks-2/  
+
 ##### Types of Neural Networks
  - Feed Forward - data moves forward in calculation
  - Radial Basis Function - measures distance from center point
