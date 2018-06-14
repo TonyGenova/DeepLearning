@@ -23,7 +23,17 @@ https://cs.stanford.edu/people/karpathy/convnetjs/
      - one output can work for next input
  - Convolutional Neural Networks - input data taken in batches, like a filter - picture data broken down, etc., then identified  
    - Most commonly applied to images
- 
+
+##### Data Structure
+ - Tensors - basic unit of data - have a number of axes, shape, and data type
+   - 0 Dimensional (1 piece of data): Scalar
+   - 1 Dimensional (1 series of data): Vector
+   - 2 Dimensional: Matrix
+   - 3 Dimensional: Cube
+   - 4 Dimensional: Series of Cubes
+
+Neural Networks are optimized via __Backpropagation__, which starts and the output and uses the chain rule to get the derivative of each prior level (ie, the contribution to the loss function that that level provided). This is part of calculating the gradient descent as applied to the Neural Network.
+
 ##### Input Neurons
  - reads the raw input, sends information on it to hidden layers
    - usually a vector of input
