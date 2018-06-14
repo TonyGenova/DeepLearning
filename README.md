@@ -34,6 +34,18 @@ https://cs.stanford.edu/people/karpathy/convnetjs/
 
 Neural Networks are optimized via __Backpropagation__, which starts and the output and uses the chain rule to get the derivative of each prior level (ie, the contribution to the loss function that that level provided). This is part of calculating the gradient descent as applied to the Neural Network.
 
+##### Anatomy of a NN:  
+ - Layers 
+   - takes tensors as input, outputs tensors 
+   - have weights applied to the input to produce the output
+   - Different types for different data
+     - Vector data - densely connected layers (Dense in Keras)
+     - Sequence data (ie 3 dimensions, one is time) - recurrent layers (LSTM)
+     - 4 dimension tensors - 2D Convolution Layers (Conv2D)
+ - Input data 
+ - Loss Function - Mean Sqaured Error for Regression problem, binary crossentrophy for binary classification problem, etc.  
+ - Optimizer
+
 ##### Input Neurons
  - reads the raw input, sends information on it to hidden layers
    - usually a vector of input
@@ -60,7 +72,9 @@ Neural Networks are optimized via __Backpropagation__, which starts and the outp
    - Gradient Descent
      - Shortcut used in calculation: Change in weight/Change in error = Slope = derivative
  
- 
- 
- 
+##### Model Functions:   
+Epochs: How many times to go over all the data    
+batch size: size of samples to segment data into  
+  
+Training and Validation Loss: Chollet book p 74 shows good examples and visualization  
  
