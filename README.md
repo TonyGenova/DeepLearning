@@ -75,9 +75,13 @@ Neural Networks are optimized via __Backpropagation__, which starts and the outp
    - Gradient Descent
      - Shortcut used in calculation: Change in weight/Change in error = Slope = derivative
  
+ 
+ 
 ##### Model Functions:   
 Epochs: How many times to go over all the data    
 batch size: size of samples to segment data into  
-  
+Dropout: Randomly dropping a neuron during training to prevent over-fitting
+ - see: https://old.reddit.com/r/learnmachinelearning/comments/8r50xg/is_dropout_algorithm_better_than_other/ and http://jmlr.org/papers/v15/srivastava14a.html
+
 Training and Validation Loss: Chollet book p 74 shows good examples and visualization  
  
