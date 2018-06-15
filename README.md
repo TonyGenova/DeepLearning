@@ -66,6 +66,9 @@ Neural Networks are optimized via __Backpropagation__, which starts and the outp
  - RELU Function (Rectified Linear Unit) - Keeps positive result, otherwise 0
  - Hyperbolic Tangent Function - (1-e^-2x)/(1+e^-2x)  
    - continuous result between -1 and 1
+ - Softmax Function - gives the probability for each output, the sum of the probabilities totaling to 1  
+   - https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions#softmax
+   - So, if have 10 runners, the probability that each one will win
 
 ##### Backpropogation
  - adjusts weights on each node to reduce error in output v specified target
